@@ -9,7 +9,7 @@ export function HomePage() {
           1Pages
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-          一个现代化的个人博客平台，基于 Remix 和 Cloudflare Pages 构建。
+         
         </p>
         <div className="flex justify-center gap-4">
           <Link 
